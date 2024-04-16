@@ -1,4 +1,4 @@
-# BankruptcyWatch Coding Challenge
+# BankruptcyWatch Coding Challenge (Just for fun yk yk)
 
 ## Goal
 
@@ -64,10 +64,10 @@ The script should
 * Be compatible with Python 3.11
 * Conform to [PEP 8](https://peps.python.org/pep-0008/)
 * Provide a `--help` option
-* Check for errors in the argument list
-* Check the input files to make sure they conform to the formats expemplified by the sample files 
+* ~~Check for errors in the argument list~~ (Sorta...?)
+* ~~Check the input files to make sure they conform to the formats expemplified by the sample files~~ (Couldn't figure it out)
 * Output a list of addresses only if no errors were discovered in the above two steps
-* Write any error messages to stderr
+* ~~Write any error messages to stderr~~ (Nah.)
 * Exit with status `0` or `1` to indicate success or failure
 
 > [!WARNING]
